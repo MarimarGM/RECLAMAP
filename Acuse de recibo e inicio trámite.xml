@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<REPORT>
+	<REPORT_DATOS>
+		<ROOT>
+			<DISTRIBUCION>
+				<LOCAL>
+				</LOCAL>
+			</DISTRIBUCION>
+			<!-- TAGS PARA EL USO DE LOS RECURSOS DE LOS ELEMENTOS COMUNES - CODIGO SAP DE LA ENTIDAD - ACTIVIDAD - IDIOMA -->
+			<ENTIDAD>0004</ENTIDAD>  
+			<ACTIVIDAD>RECLAMACIONES</ACTIVIDAD>
+			<IDIOMA>es_ES</IDIOMA>
+			<!-- CARTA RECLAMAP -->
+			<!-- LOGO DE DIRECCION DE RECLAMACIONES - CUANDO SEA OTRA ENTIDAD NO DEBERA VENIR -->
+			<CABECERA>LOGO_MAPFRE_RECLAMAP.jpg</CABECERA>
+			<IMAGEN_FIRMA>FIRMA_JESUS_LAHUERTA_MARTINEZ.jpg</IMAGEN_FIRMA> 
+			<CARTA_RECLAMAP>	
+				<REF_DOCUMENTO>DR2/13</REF_DOCUMENTO>		
+				<!-- SE DEFINEN TODOS LOS BLOQUES POSIBLES DE TODAS LAS CARTAS
+		PERO SE PINTAN SOLO LOS QUE VENGAN EN EL XML -->
+				<!-- EN CADA BLOQUE SE DEFINEN TODOS LOS CAMPOS POSIBLES QUE HAY EN TODOS LOS TEXTOS
+			PERO SE PINTAN SOLO LOS QUE VENGAN EN EL XML -->
+				<SOBRE_VENTANILLA>
+					<!-- Bloque 20 -->
+					<NOMBRE_ENVIO>Nombre y Apellidos del Asegurado</NOMBRE_ENVIO>
+					<DIRECCION1_ENVIO>Primera línea de la dirección de envío</DIRECCION1_ENVIO>
+					<DIRECCION2_ENVIO>Segunda línea de la dirección de envío</DIRECCION2_ENVIO>
+					<CODPOSTAL_ENVIO>28001</CODPOSTAL_ENVIO>
+					<LOCALIDAD_ENVIO>MADRID</LOCALIDAD_ENVIO>
+					<PROVINCIA_ENVIO>MADRID</PROVINCIA_ENVIO>
+					<CON_COPIA>C/C DIRECCIÓN DE RECLAMACIONES</CON_COPIA>
+					<LOCALIDAD_GENERACION>Majadahonda</LOCALIDAD_GENERACION>
+					<FECHA_GENERACION>a 24 de Julio de 2015</FECHA_GENERACION>
+					<NUM_REFERENCIA>092971-2015</NUM_REFERENCIA>
+					<S_REF>3752/15</S_REF>
+				</SOBRE_VENTANILLA>
+				<CABECERA_ENVIO>
+					<!-- Bloque 60 -->
+					<ENVIO_PARA>Juan José Pérez Navarro</ENVIO_PARA>
+					<ENVIO_CC_UNIDAD>VIDA</ENVIO_CC_UNIDAD>
+					<ENVIO_CC_SR>Clotilde Sanmartín Pisaca</ENVIO_CC_SR>
+					<ENVIO_DE>Antonia Carrasco López</ENVIO_DE>
+					<NUM_REFERENCIA>092764-2015</NUM_REFERENCIA>
+					<FECHA_RESPUESTA>31 de Septiembre de 2015</FECHA_RESPUESTA>
+					<FECHA_GENERACION>24 de Julio de 2015</FECHA_GENERACION>
+					<TEXTO_REFERENCIA>QUEJA</TEXTO_REFERENCIA>
+					<TEXTO_RESPUESTA>Vence responder el</TEXTO_RESPUESTA>
+				</CABECERA_ENVIO>	
+				<CUERPO_CARTA>
+					<!-- Bloque 30 -->
+					<TEXTO_CARTA>RECLAMAP_MODELO_4_NOCDA.rtf</TEXTO_CARTA>
+					<!-- SE DEFINEN TODOS LOS CAMPOS POSIBLES QUE HAY EN TODOS LOS TEXTOS
+			PERO SE PINTAN SOLO LOS QUE VENGAN EN EL XML -->		
+					<ESCRITO_REFERENCIA>3752/15</ESCRITO_REFERENCIA>
+					<FECHA_ENTREGA>1/03/2015</FECHA_ENTREGA>		
+					<DATOS_A_REMITIR>Texto con datos a remitir por el cliente</DATOS_A_REMITIR>
+					<!-- Pueden venir varios tags de este campo -->
+					<NOMBRE_ASEGURADO>Nombre y Apellidos del Asegurado</NOMBRE_ASEGURADO>
+					<TEXTO_RESPUESTA>Ejemplo de texto con la/las respuesta/s</TEXTO_RESPUESTA>
+					<TEXTO_DIRIGIR>Texto para dirigirse</TEXTO_DIRIGIR>
+					<NOMBRE_INTERESADO>D. Alejandro Rodríguez Menéndez</NOMBRE_INTERESADO>
+					<TEXTO_CAUSA>Texto con el hecho causante</TEXTO_CAUSA>
+					<NUM_CONTRATO>CONTRATO/POLIZA</NUM_CONTRATO>
+					<CUESTIONES_PLANTEADAS>Texto con Cuaestiones Planteadas</CUESTIONES_PLANTEADAS>
+					<TRATAMIENTO>Estimado señor</TRATAMIENTO>
+					<MOTIVO_RECLAMAP>MOTIVO_RECLAMAP</MOTIVO_RECLAMAP>
+					<FECHA_RECLAMAP>FECHA_RECLAMAP</FECHA_RECLAMAP>
+					<HORA_RECLAMAP>HORA_RECLAMAP</HORA_RECLAMAP>
+					<RESOLUCION_RECLAMAP>RESOLUCION_RECLAMAP</RESOLUCION_RECLAMAP>
+				</CUERPO_CARTA>
+				<CUERPO_TABLA>
+					<TEXTO_SUPERIOR>RECLAMAP_MODELO_12_SUP.rtf</TEXTO_SUPERIOR>
+					<TRATAMIENTO>Estimado señor</TRATAMIENTO>
+					<FECHA_ENTREGA>1/03/2015</FECHA_ENTREGA>
+					<!-- Se activará una tabla de las dos definidas - NUNCA LAS DOS A LA VEZ -->
+					<TABLA_DATOS_REMITIR>
+						<DATOS_A_REMITIR>primer dato a remitir</DATOS_A_REMITIR>
+						<DATOS_A_REMITIR>segundo dato a remitir</DATOS_A_REMITIR>
+						<DATOS_A_REMITIR>tercer dato a remitir</DATOS_A_REMITIR>
+						<DATOS_A_REMITIR>cuarto dato a remitir</DATOS_A_REMITIR>
+					</TABLA_DATOS_REMITIR>
+					<TABLA_TEXTO_RESPUESTA>
+						<TEXTO_RESPUESTA>Este es un primer TEXTO_RESPUESTA largo que salta aqui [cr]para comprobar que los saltos de linea funcionan correctamente y se mantiene la alineacion a ambos lados del propio texto que recibimos.[cr][cr]Aqui comienza la segunda linea del mismo texto, con doble espacio [cr][cr][cr]Y aqui la tercera linea del texto, con triple espaciado.</TEXTO_RESPUESTA>
+						<TEXTO_RESPUESTA>Este es un segundo TEXTO_RESPUESTA para comprobar que se mantiene la posiblidad de enviar tantas etiquetas como se necesiten.</TEXTO_RESPUESTA>
+					</TABLA_TEXTO_RESPUESTA>
+					<TABLA_TEXTOS_RESPUESTA_HTML>
+						<TEXTO_RESPUESTA_HTML><![CDATA[<p>TEXTO EN HTML</p>]]></TEXTO_RESPUESTA_HTML>
+						<TEXTO_RESPUESTA_HTML><![CDATA[<p>TEXTO EN HTML 2</p>]]></TEXTO_RESPUESTA_HTML>
+						<TEXTO_RESPUESTA_HTML><![CDATA[<p>TEXTO EN HTML 3</p>]]></TEXTO_RESPUESTA_HTML>
+					</TABLA_TEXTOS_RESPUESTA_HTML>			
+					<TEXTO_INFERIOR>RECLAMAP_MODELO_12_INF.rtf</TEXTO_INFERIOR>
+				</CUERPO_TABLA>
+				<BLOQUE_FIRMA>
+					<DOC_FIRMADO>SI</DOC_FIRMADO>
+					<NOMBRE_FIRMANTE> Rafael Estévez Comas</NOMBRE_FIRMANTE>
+					<OFICINA_FIRMANTE>Oficina de Tramitación de Reclamaciones</OFICINA_FIRMANTE>
+					<ENTIDAD_FIRMANTE>Mapfre Reclamaciones</ENTIDAD_FIRMANTE>
+				</BLOQUE_FIRMA>
+				<BLOQUE_LOPD>
+					<!-- Bloque 50 -->
+					<TEXTO_LOPD>RECLAMAP_LOPD.rtf</TEXTO_LOPD>
+				</BLOQUE_LOPD>
+				<ATENCION_AL_CLIENTE>
+					<!-- segunda pagina del modelo B -->
+					<TEXTO_ATENCION_CLIENTE>RECLAMAP_ATENCION_CLIENTE.docx</TEXTO_ATENCION_CLIENTE>
+				</ATENCION_AL_CLIENTE>
+				<MODELO8_PRIMA>
+					<!-- segunda pagina modelo 8 -->
+					<TEXTO_MOD8_PRIMA>RECLAMAP_MODELO_8_PRIMA.docx</TEXTO_MOD8_PRIMA>
+					<NUM_REFERENCIA>092971-2015</NUM_REFERENCIA>
+					<REF_DOCUMENTO2>DR8"/13</REF_DOCUMENTO2>
+				</MODELO8_PRIMA>	
+				<MODELO4_P2>
+					<!-- segunda pagina modelo 4 -->
+					<TEXTO_MOD4_P2>RECLAMAP_MODELO_4_PRIMA.rtf</TEXTO_MOD4_P2>
+					<NUM_REFERENCIA>092971-2015</NUM_REFERENCIA>
+					<S_REF>3752/15</S_REF>
+					<REF_DOCUMENTO2>DR4"/13</REF_DOCUMENTO2>
+				</MODELO4_P2>
+
+				<!-- Nuevo Modelo Resolucion - Junio 2020 -->
+				<MODELO_RESOLUCION>
+					<CABECERA_RESOLUCION>
+						<NUM_REFERENCIA>88.999.000</NUM_REFERENCIA>
+						<NOMBRE_ASEGURADO>JUAN GONZALEZ PEREZ</NOMBRE_ASEGURADO>
+						<DNI>11.444.555-W</DNI>
+					</CABECERA_RESOLUCION>
+					<INTRO_RESOLUCION>
+						<TEXTO_INTRO_RESOLUCION>RECLAMAP_MODELO_RESOLUCION.rtf</TEXTO_INTRO_RESOLUCION>
+					</INTRO_RESOLUCION>
+					<ANTECEDENTES>
+						<PROD_CONTRATADO>Ejemplo de texto del producto contratado</PROD_CONTRATADO>
+						<NUM_CONTRATO>000.999.888.111</NUM_CONTRATO>
+						<CCGG>Condiciones Generales 2015/12</CCGG>
+						<DES_TRAMITACION_EXP_RES>Ejemplo de texto de la descripción detallada de la tramitación del expediente</DES_TRAMITACION_EXP_RES>
+						<SOLICITUD_RECLAMANTE_RES>Ejemplo de texto de la Solicitud del reclamante efectuada en su reclamación</SOLICITUD_RECLAMANTE_RES>
+					</ANTECEDENTES>
+					<HECHOS_MOTIVOS>
+						<HECHOS_MOTIVOS_RES>Ejemplo de texto de la Descripción de los hechos y motivos relatados por el reclamante en su reclamación. </HECHOS_MOTIVOS_RES>
+					</HECHOS_MOTIVOS>
+					<CONCLUSION>
+						<CONCLUSION_RES>Ejemplo de texto de la Descripción de los argumentos en los que la entidad basa o fundamenta la resolución del expediente.</CONCLUSION_RES>
+					</CONCLUSION>
+					<BLOQUE_LOC_FECHA>
+						<FECHA_GENERACION>29/06/2020</FECHA_GENERACION>
+						<LOCALIDAD_GENERACION>San Pedro del Pinatar</LOCALIDAD_GENERACION>
+					</BLOQUE_LOC_FECHA>
+					<BLOQUE_FIRMA_RESOLUCION>
+						<DOC_FIRMADO>NO</DOC_FIRMADO>
+						<NOMBRE_FIRMANTE> Rafael Estévez Comas</NOMBRE_FIRMANTE>
+						<OFICINA_FIRMANTE>Oficina de Tramitación de Reclamaciones</OFICINA_FIRMANTE>
+						<ENTIDAD_FIRMANTE>Mapfre Reclamaciones</ENTIDAD_FIRMANTE>
+					</BLOQUE_FIRMA_RESOLUCION>
+				</MODELO_RESOLUCION>
+			</CARTA_RECLAMAP> 
+		</ROOT>
+	</REPORT_DATOS>
+</REPORT>
