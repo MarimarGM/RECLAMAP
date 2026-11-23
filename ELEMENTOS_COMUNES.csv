@@ -1,0 +1,69 @@
+ENTIDAD;ACTIVIDAD;IDIOMA;NOMBRE_CORTO_ENTIDAD;CABECERA;FIRMA;REG_MERCANTIL;DIRECCION_ENTIDAD;PIE;NOMBRE_LARGO_ENTIDAD;NOMBRE_PW;TEXTO_FIRMA
+0002;EMISION;ca_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_EMISION.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA Companyia d'Assegurances i Reassegurances S.A.;www.mapfre.es;L'entitat Aseguradora, P.P.
+0002;EMISION;de_DE;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_EMISION.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA, Compañía de Seguros y Reaseguros S.A.;www.mapfre.es;Versicherungsgesellschaft, P.P.
+0002;EMISION;en_GB;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_EMISION.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA, Compañía de Seguros y Reaseguros S.A.;www.mapfre.es;The Insurance Company, P.P.
+0002;EMISION;es_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_EMISION.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA, Compañía de Seguros y Reaseguros S.A.;www.mapfre.es;La Entidad Aseguradora, P.P.
+0002;EMISION;eu_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_EMISION.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA, Compañía de Seguros y Reaseguros S.A.;www.mapfre.es;Aseguru-etxea, P.P.
+0002;EMISION;fr_FR;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_EMISION.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA, Compañía de Seguros y Reaseguros S.A.;www.mapfre.es;L'Assureur, P.P.
+0002;EMISION;gl_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_EMISION.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA, Compañía de Seguros y Reaseguros S.A.;www.mapfre.es;A Entidade Aseguradora, P.P.
+0003;EMISION;es_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;FIRMA_0003_EMISION.jpg;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE VIDA, Sociedad Anónima de Seguros y Reaseguros sobre la vida humana;;La Entidad Aseguradora, P.P.
+0003;EMISION;ca_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;FIRMA_0003_EMISION.jpg;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE VIDA, Sociedad Anónima de Seguros y Reaseguros sobre la vida humana;;L'entitat Aseguradora, P.P.
+0003;EMISION;gl_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;FIRMA_0003_EMISION.jpg;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;;;A Entidade Aseguradora, P.P.
+0003;EMISION;eu_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;FIRMA_0003_EMISION.jpg;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;;;Aseguru-etxea, P.P.
+0003;EMISION;en_GB;MAPFRE VIDA;LOGO_MAPFRE.jpg;FIRMA_0003_EMISION.jpg;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;;;The Insurance Company, P.P.
+0171;EMISION;es_ES;MAPFRE GLOBAL RISKS;LOGO_0171.jpg;;RM_0171_ES.rtf;DE_0171_EM_ES.rtf;;MAPFRE GLOBAL RISKS, COMPAÑIA INTERNACIONAL DE SEGUROS Y REASEGUROS S.A.;;La Entidad Aseguradora, P.P.
+0423;EMISION;es_ES;BANKINTER;LOGO_0423.jpg;FIRMA_0423_EMISION.jpg;RM_0423_ES.rtf;;PIE_0423.jpg;;;La Entidad Aseguradora, P.P.
+0467;EMISION;es_ES;UNION DEL DUERO VIDA;LOGO_0467.jpg;FIRMA_0467_EMISION.jpg;RM_0467_ES.rtf;;PIE_0467.jpg;;;La Entidad Aseguradora, P.P.
+A365;EMISION;es_ES;BANKIA MAPFRE VIDA, S.A.;LOGO_A365.jpg;FIRMA_A365_EMISION.jpg;RM_A365_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0002;GESTION_PROVEEDORES;es_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_GESTION_PROVEEDORES.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;;;La Entidad Aseguradora, P.P.
+0077;GESTION_PROVEEDORES;es_ES;CLUB MAPFRE;LOGO_MAPFRE.jpg;FIRMA_0077_GESTION_PROVEEDORES.jpg;RM_0077_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0102;GESTION_PROVEEDORES;es_ES;MULTIMAP;LOGO_MAPFRE.jpg;FIRMA_0102_GESTION_PROVEEDORES.jpg;RM_0102_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0102;GESTION_RECIBOS;es_ES;MULTIMAP;LOGO_MAPFRE.jpg;;RM_0102_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0102;GESTION_RECIBOS;ca_ES;MULTIMAP;LOGO_MAPFRE.jpg;;RM_0102_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;L'entitat Aseguradora, P.P.
+0485;GESTION_PROVEEDORES;es_ES;CATALUNYACAIXA ASSEGURANCES GENERALS;LOGO_0485.jpg;FIRMA_0485_GESTION_PROVEEDORES.jpg;RM_0485_ES.rtf;Calle Ruore, 6-8 08820 El Prat de Llobregat Barcelona (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0002;GESTION_RECIBOS;ca_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;L'entitat Aseguradora, P.P.
+0002;GESTION_RECIBOS;es_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0003;GESTION_RECIBOS;ca_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;
+0003;GESTION_RECIBOS;es_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0171;GESTION_RECIBOS;ca_ES;MAPFRE GLOBAL RISKS;LOGO_0171.jpg;;RM_0171_ES.rtf;DE_0171_ES.rtf;;;;
+0171;GESTION_RECIBOS;es_ES;MAPFRE GLOBAL RISKS;LOGO_0171.jpg;;RM_0171_ES.rtf;DE_0171_ES.rtf;;;;La Entidad Aseguradora, P.P.
+0523;GESTION_RECIBOS;ca_ES;Bankinter Seguros Generales S.A. de Seguros y Reaseguros;LOGO_0523.jpg;;RM_0523_ES.rtf;Avenida de Bruselas, 12 - 28108 Alcobendas, Madrid (ESPAÑA);;;;
+0523;GESTION_RECIBOS;es_ES;Bankinter Seguros Generales S.A. de Seguros y Reaseguros;LOGO_0523.jpg;;RM_0523_ES.rtf;Avenida de Bruselas, 12 - 28108 Alcobendas, Madrid (ESPAÑA);;;;
+0002;PRESTACIONES;es_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;FIRMA_0002_PRESTACIONES.jpg;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;MAPFRE ESPAÑA COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A.;;La Entidad Aseguradora, P.P.
+0003;PRESTACIONES;ca_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;FIRMA_0003_PRESTACIONES.jpg;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;;;L'entitat Aseguradora, P.P.
+0003;PRESTACIONES;es_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;FIRMA_0003_PRESTACIONES.jpg;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;;;La Entidad Aseguradora, P.P.
+0171;PRESTACIONES;ca_ES;MAPFRE GLOBAL RISKS;LOGO_0171.jpg;;RM_0171_ES.rtf;DE_0171_ES.rtf;;;;L'entitat Aseguradora, P.P.
+0171;PRESTACIONES;es_ES;MAPFRE GLOBAL RISKS;LOGO_0171.jpg;;RM_0171_ES.rtf;DE_0171_ES.rtf;;;;La Entidad Aseguradora, P.P.
+0423;PRESTACIONES;es_ES;BANKINTER;LOGO_0423.jpg;FIRMA_0423_PRESTACIONES.jpg;RM_0423_ES.rtf;;PIE_0423.jpg;IE;;La Entidad Aseguradora, P.P.
+0467;PRESTACIONES;es_ES;UNION DEL DUERO VIDA;LOGO_0467.jpg;FIRMA_0467_PRESTACIONES.jpg;RM_0467_ES.rtf;;P_0467.jpg;;;La Entidad Aseguradora, P.P.
+A365;PRESTACIONES;es_ES;BANKIA MAPFRE VIDA, S.A.;LOGO_A365.jpg;FIRMA_A365_PRESTACIONES.jpg;RM_A365_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_A365.jpg;;;La Entidad Aseguradora, P.P.
+0485;PRESTACIONES;es_ES;CATALUNYACAIXA ASSEGURANCES GENERALS;LOGO_0485.jpg;;RM_0485_ES.rtf;Calle Ruore, 6-8 08820 El Prat de Llobregat Barcelona (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0002;RECLAMACIONES;es_ES;MAPFRE ESPAÑA;LOGO_MAPFRE.jpg;;RM_0002_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0003;RECLAMACIONES;es_ES;MAPFRE VIDA;LOGO_MAPFRE.jpg;;RM_0003_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;;;La Entidad Aseguradora, P.P.
+0004;RECLAMACIONES;es_ES;MAPFRE S.A.;;FIRMA_0004_RECLAMACIONES.jpg;;;;;;La Entidad Aseguradora, P.P.
+0052;RECLAMACIONES;es_ES;MAPFRE INVERSION;LOGO_MAPFRE.jpg;;;;;;;
+0053;RECLAMACIONES;es_ES;MAPFRE PENSIONES;LOGO_MAPFRE.jpg;;;;;;;
+0171;RECLAMACIONES;es_ES;MAPFRE GLOBAL RISK;LOGO_MAPFRE.jpg;;;;;;;La Entidad Aseguradora, P.P.
+0596;RECLAMACIONES;es_ES;LAIETANA VIDA;LOGO_0596.jpg;;;;;;;
+0597;RECLAMACIONES;es_ES;ASEVAL;LOGO_0597.jpg;;;;;;;
+A365;RECLAMACIONES;es_ES;BANKIA MAPFRE VIDA;LOGO_A365.jpg;;;;;;;
+MASE;RECLAMACIONES;es_ES;MAPFRE ASISTENCIA;LOGO_MAPFRE.jpg;;;;;;;La Entidad Aseguradora, P.P.
+0623;RECLAMACIONES;es_ES;SANTANDER MAPFRE;LOGO_0623_RECLAMAP.jpg;;;;;;;La Entidad Aseguradora, P.P.
+0422;PRESTACIONES;es_ES;CCM;LOGO_0422.jpg;FIRMA_0422_PRESTACIONES.jpg;RM_0422_ES.rtf;CCM Vida y Pensiones de Seguros y Reaseguros S.A. - Carretería, 5 - 16002 Cuenca;;;;
+0421;GESTION_PROVEEDORES;es_ES;VERTI;LOGO_0421.jpg;FIRMA_0421_GESTION_PROVEEDORES.jpg;RM_0421_ES.rtf;Calle María Tubau, 10 Edificio B – 28050 Madrid (ESPAÑA);;VERTI ASEGURADORA, COMPAÑÍA DE SEGUROS Y REASEGUROS S.A;;La Entidad Aseguradora, P.P.
+0523;EMISION;ca_ES;Bankinter Seguros Generales S.A. de Seguros y Reaseguros;LOGO_0523.jpg;FIRMA_0523_EMISION.jpg;RM_0523_ES.rtf;Avenida de Bruselas, 12 - 28108 Alcobendas, Madrid (ESPAÑA);PIE_0523.jpg;;;
+0523;EMISION;es_ES;Bankinter Seguros Generales S.A. de Seguros y Reaseguros;LOGO_0523.jpg;FIRMA_0523_EMISION.jpg;RM_0523_ES.rtf;Avenida de Bruselas, 12 - 28108 Alcobendas, Madrid (ESPAÑA);PIE_0523.jpg;;;
+0523;GESTION_PROVEEDORES;es_ES;Bankinter Seguros Generales SA de Seguros y Reaseguros;LOGO_0523.jpg;FIRMA_0523_GESTION_PROVEEDORES.jpg;RM_0523_ES.rtf;Avenida de Bruselas, 12 - 28108 Alcobendas, Madrid (ESPAÑA);;;;
+0171;CERTIFICADOS;es_ES;MAPFRE ESPAÑA;LOGO_0171_CER.jpg;FIRMA_0171_CERTIFICADOS.jpg;RM_0171_ES_CER.rtf;DE_0171_CER.rtf;;MAPFRE ESPAÑA COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A.;;La Entidad Aseguradora, P.P.
+0623;GESTION_PROVEEDORES;es_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_GESTION_PROVEEDORES.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;EMISION;es_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;PRESTACIONES;es_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;GESTION_RECIBOS;ca_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;GESTION_RECIBOS;es_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;La Entidad Aseguradora, P.P.
+0623;EMISION;en_GB;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;EMISION;en_US;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;EMISION;fr_FR;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;EMISION;de_DE;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;EMISION;ca_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;EMISION;eu_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
+0623;EMISION;gl_ES;Santander MAPFRE;LOGO_0623.jpg;FIRMA_0623_EMISION.jpg;RM_0623_ES.rtf;Carretera de Pozuelo, 50 - 28222 Majadahonda Madrid (ESPAÑA);PIE_MAPFRE.jpg;Santander MAPFRE Seguros y Reaseguros, S.A.;www.santandermapfreseguros.es;
